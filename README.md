@@ -70,12 +70,6 @@ tDASH-360/
 
 ### 1. Download ns-3.44
 
-```bash
-wget https://www.nsnam.org/releases/ns-allinone-3.44.tar.bz2
-tar xjf ns-allinone-3.44.tar.bz2
-cd ns-allinone-3.44/ns-3.44
-```
-
 ### 2. Copy tDASH into ns-3
 
 ```bash
