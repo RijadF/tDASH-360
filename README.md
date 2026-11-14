@@ -39,8 +39,6 @@ The framework accompanies the paper *"Scalability in WiFi-based Multi-User VR St
 - **ns-3.44** ([download](https://www.nsnam.org/releases/ns-3-44/))
 - Linux (Ubuntu 22.04 / 24.04 recommended)
 - g++ ≥ 10, CMake ≥ 3.13, Python 3
-- *(Optional)* Gurobi and Python, only for the real-time user-association optimization. It is disabled by default (see [Optional: Gurobi optimization](#optional-gurobi-optimization)).
-
 ---
 
 ## Repository structure
