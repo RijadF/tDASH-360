@@ -212,11 +212,11 @@ df = df[df["SegmentId"] != "FINAL"]
 
 ## Citation
 
-**If you use tDASH in your research cite**:
+**If you use tDASH in your research cite it**:
 
 ```bibtex
 @inproceedings{fetahagic2026tdash,
-  author    = {Rijad Fetahagi{\'c} and Darijo Raca and Ahmed Zahran},
+  author    = {Rijad Fetahagi{\'c}, Darijo Raca and Ahmed Zahran},
   title     = {Scalability in WiFi-based Multi-User VR Streaming Systems},
   booktitle = {Proceedings of iMETA 2026},
   address   = {Barcelona, Spain},
